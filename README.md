@@ -16,3 +16,6 @@ Help Options:
   /h, /help      Show this help message
 ```
 
+# Feature
+- scan 180,000 files in 7s
+- compare files
